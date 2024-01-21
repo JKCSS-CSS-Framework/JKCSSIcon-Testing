@@ -7,7 +7,7 @@
     height: 20px;
 }
 .jk-user::before{
-    content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user-paper.svg");
+    content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user.svg");
 }
 .jk-map::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/mp1.svg");
