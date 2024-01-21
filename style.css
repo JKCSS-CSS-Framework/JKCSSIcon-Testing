@@ -3,14 +3,13 @@
     -moz-osx-font-smoothing: grayscale;
     font-family: var(--jk-site-font);
     transition: 0.4s;
+    display: inline-block;
 }
 .jk-user::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user.svg");
 }
 .jk-usertxt{
-    content: url("svgs/user.svg");
-    width: 20px;
-    height: auto;
+    content: url("svgs/user.svg");  
 }
 .jk-map::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/mp1.svg");
