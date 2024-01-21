@@ -3,6 +3,8 @@
     -moz-osx-font-smoothing: grayscale;
     font-family: var(--jk-site-font);
     transition: 0.4s;
+    width: 20px;
+    height: 20px;
 }
 .jk-user::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user-paper.svg");
