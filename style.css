@@ -1,3 +1,9 @@
-.user-con{
-    content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user-paper.svg");
+.jk{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: var(--jk-site-font);
+    transition: 0.4s;
+}
+.jk-user{
+    content: url(https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user-paper.svg);
 }
