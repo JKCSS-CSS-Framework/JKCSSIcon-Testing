@@ -5,6 +5,10 @@
     transition: 0.4s;
     display: inline-block;
 }
+
+.user-fill-svg{
+    background: red;
+}
 .jk-user::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user.svg");
 }
