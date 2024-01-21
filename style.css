@@ -9,7 +9,7 @@
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user.svg");
 }
 .jk-usertxt{
-    content: url("svgs/user.svg");  
+    content: url("svgs/user-fill.svg");  
 }
 .jk-map::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/mp1.svg");
