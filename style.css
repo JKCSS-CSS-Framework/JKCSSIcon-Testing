@@ -4,16 +4,13 @@
     font-family: var(--jk-site-font);
     transition: 0.4s;
 }
-.jk-{
-    width: 20px;
-    height: auto;
-}
-
 .jk-user::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/user.svg");
 }
 .jk-usertxt{
     content: url("svgs/user.svg");
+    width: 20px;
+    height: auto;
 }
 .jk-map::before{
     content: url("https://jkcss-css-framework.github.io/JKCSSIcon-Testing/svgs/mp1.svg");
